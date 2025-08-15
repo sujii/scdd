@@ -1,8 +1,16 @@
 # Structured Collaborative Design and Development (SCDD)
 
-SCDD begins with our guiding philosophy: Structured Collaborative Design and Development. It's the "Why" behind our entire ecosystem.
+### **Why ?**
 
-To bring this philosophy to life, we employ a concrete methodology—the "How"—which we also call SCDD: Schema-Combining Development Design. This is the technical practice at the heart of [resonance-spec](https://github.com/sujii/resonance-spec) and @synaptix/core (This has not been released yet. The initial implementation will be released as [@synaptix/pre](https://github.com/sujii/synaptix-archive)).
+#### SCDD: **Structured Collaborative Design and Development**
+
+SCDD begins with our guiding philosophy: **Structured Collaborative Design and Development**. It's the "Why" behind our entire ecosystem.
+
+### **How ?**
+
+#### SCDD: **Schema-Combining Development Design**
+
+To bring this philosophy to life, we employ a concrete methodology—the "How"—which we also call SCDD: **Schema-Combining Development Design**. This is the technical practice at the heart of **[resonance-spec](https://github.com/sujii/resonance-spec)** and **[Synaptix](https://github.com/sujii/synaptix)**.
 
 ## Post-Structuralist Design and Its Practical Software Architecture
 
@@ -38,9 +46,9 @@ SCDD is suitable for:
 - Distributed AI systems with dynamic requirements
 - Adaptive infrastructure solutions for critical industries such as finance, healthcare, and governance
 
-This design theory is being actively explored and implemented in projects such as **Synaptix**, **Resonance**, and **Actors**, each aiming to push the boundaries of what modern software architecture can achieve.
+This design theory is being actively explored and implemented in projects such as **[Synaptix](https://github.com/sujii/synaptix)**, **Resonance**, and **Actors**, each aiming to push the boundaries of what modern software architecture can achieve.
 
-- **Synaptix**: A semantic reduction engine. Not a module or library, but an infrastructure for converting deep meaning into generative structure.
+- **[Synaptix](https://github.com/sujii/synaptix)**: An adaptive software architecture for building self-regulating, resilient systems inspired by biological life.
 - **Resonance**: A system for emitting, amplifying, and embodying meaning as structural influence.
 - **Actors**: The interface layer as communication design between manifestations that embodied emitter of meaning. Actors may be humans, AI, or symbolic structures that participate in contextual resonance.
 
